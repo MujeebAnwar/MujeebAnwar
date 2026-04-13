@@ -5,42 +5,60 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+Integration+Specialist;Laravel+%7C+React+%7C+Python+%7C+AWS;I+turn+ideas+into+AI-powered+products+fast" />
 </p>
 
+<p align="center">
 🚀 Full-Stack Dev  ·  🤖 AI Integration Specialist  ·  ☁️ Cloud & Automation  ·  📍 Pakistan
+</p>
 
-> 💡 *I turn complex ideas into clean, AI-powered web products fast.*
-
----
-
-### 🧑‍💻 About me
-
-- 🔭 Currently building AI-powered automation tools
-- 🌱 Exploring agentic AI workflows & multi-model pipelines
-- 💬 Ask me about Laravel, React, Python, or AI integrations
-- ⚡ Fun fact: I automate the boring stuff so clients don't have to
+<p align="center">
+💡 <i>I turn complex ideas into clean, AI-powered web products fast.</i>
+</p>
 
 ---
 
-### 📊 Quick stats
+<h2 align="center">🧠 I Build AI Systems That Replace Manual Work</h2>
 
-| 🚀 5+ years shipping | 🤖 10+ AI workflows built | ☁️ AWS cloud apps |
+<p align="center">
+From idea → production AI tools in days, not months.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Automation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-RAG%20%26%20Agents-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Laravel%20%2B%20React%20%2B%20Python-black?style=for-the-badge" />
+</p>
+
+---
+
+## 🧑‍💻 About me
+
+- 🔭 Currently building AI-powered automation tools  
+- 🌱 Exploring agentic AI workflows & multi-model pipelines  
+- 💬 Ask me about Laravel, React, Python, or AI integrations  
+- ⚡ Fun fact: I automate the boring stuff so clients don't have to  
+
+---
+
+## 📊 Quick stats
+
+| 🚀 7+ years shipping | 🤖 10+ AI workflows built | ☁️ AWS cloud apps |
 |:---:|:---:|:---:|
 | ⚡ 14 public repos | 🌍 3+ countries served | ♾️ ∞ coffees consumed |
 
 ---
 
-### 📈 GitHub Live Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujeebAnwar&layout=compact&theme=tokyonight" height="170"/>
-</p>
+## 📈 GitHub Activity & Insights
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujeebAnwar&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujeebAnwar&theme=tokyonight" />
+</p>
+
 ---
 
-### 🧠 Contribution Activity
+## 🧠 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MujeebAnwar&theme=tokyo-night" />
@@ -48,7 +66,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MujeebAnwar/MujeebAnwar/output/github-snake-dark.svg" />
@@ -56,7 +74,7 @@
 
 ---
 
-### 🛠️ Tech stack
+## 🛠️ Tech stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -69,7 +87,7 @@
 
 ---
 
-### 🤖 AI tools I work with
+## 🤖 AI tools I work with
 
 | | Tool | Use case | Category |
 |:---:|:---|:---|:---:|
@@ -82,36 +100,89 @@
 
 ---
 
-### 🔨 What I work on
+## 🧩 AI Solutions I’ve Built
 
-- 🌐 Full-stack web apps with Laravel + React / Node backends
-- 🤖 AI-powered automation workflows using Python and LLM APIs
-- 📚 RAG pipelines, chatbots & intelligent document processing
-- ☁️ Cloud infrastructure and deployments on AWS
-- 📣 Integrating AI into marketing, content & business processes
-
----
-
-### 💼 Services I Offer
-
-- 🤖 AI Chatbots & Automation Systems
-- 📊 RAG Pipelines & Document Intelligence
-- 🌐 Full-Stack SaaS Development (Laravel + React)
-- ⚙️ API Development & Integrations
-- ☁️ Cloud Deployment (AWS, Vercel, Docker)
-- 📈 Performance Optimization & Scaling
+| Use Case | Stack | Outcome |
+|:--|:--|:--|
+| 🤖 AI Chatbots | OpenAI + Laravel | Automated customer support |
+| 📄 Document AI (RAG) | Python + Pinecone | Smart document search |
+| 🛒 E-commerce AI | React + APIs | Product recommendations |
+| 📣 Marketing AI | GPT + Automation | Content generation at scale |
+| ⚙️ Workflow Automation | n8n + APIs | Removed manual processes |
 
 ---
 
-### 🚀 Let's Build Something Powerful
+## 🏗️ How I Build AI Systems
+User Input → API Layer → AI Model (LLM) → Vector DB (RAG) → Business Logic (Laravel / Python) →Response + Automation Output
+
+- ⚡ Designed for scalability & low latency  
+- 🧠 Multi-model support (OpenAI, Claude, Groq)  
+- 🔁 Automation-first architecture  
+
+---
+
+## 🔨 What I work on
+
+- 🌐 Full-stack web apps with Laravel + React / Node backends  
+- 🤖 AI-powered automation workflows using Python and LLM APIs  
+- 📚 RAG pipelines, chatbots & intelligent document processing  
+- ☁️ Cloud infrastructure and deployments on AWS  
+- 📣 Integrating AI into marketing, content & business processes  
+
+---
+
+## 💼 Services I Offer
+
+- 🤖 AI Chatbots & Automation Systems  
+- 📊 RAG Pipelines & Document Intelligence  
+- 🌐 Full-Stack SaaS Development (Laravel + React)  
+- ⚙️ API Development & Integrations  
+- ☁️ Cloud Deployment (AWS, Vercel, Docker)  
+- 📈 Performance Optimization & Scaling  
+
+---
+
+## 🧪 Currently Building
+
+- 🚀 AI Automation Platform (multi-model support)  
+- 🧠 Advanced RAG pipeline with memory  
+- ⚡ Low-latency inference systems (Groq + Llama)  
+
+---
+
+## 💼 Work With Me
+
+I help startups & businesses:
+
+- 🚀 Launch AI-powered products fast  
+- 🤖 Automate workflows & operations  
+- 📈 Scale systems with clean architecture  
+
+---
+
+## 🚀 Let's Build Something Powerful
 
 💡 Have an idea? Need an AI-powered solution?
 
 👉 I can help you build, automate, and scale it.
 
-📬 Reach out:
-- 💼 LinkedIn: https://www.linkedin.com/in/mujeeb-anwar
-- ✉️ Email: mujeebanwar2879@gmail.com
+---
+
+## 📬 Let’s Talk
+
+If you're building something serious:
+
+👉 **I can help you design, build, and scale it**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mujeeb-anwar/  
+- ✉️ Email: mujeebanwar2879@gmail.com  
+
+---
+
+## ⚡ Philosophy
+
+> “Code is temporary. Systems scale. Automation wins.”
+
 ---
 
 <!-- 🌟 Footer wave animation -->
