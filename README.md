@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Dev  ·  🤖 AI Integration Specialist  ·  ☁️ Cloud & Automation  ·  📍 Pakistan
 
-> 💡 *I turn complex ideas into clean, AI-powered web products — fast.*
+> 💡 *I turn complex ideas into clean, AI-powered web products fast.*
 
 ---
 
