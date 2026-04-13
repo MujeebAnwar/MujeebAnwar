@@ -92,10 +92,26 @@
 
 ---
 
-### 📬 Connect with me
+### 💼 Services I Offer
 
-📬 Open to freelance projects  ·  [💼 LinkedIn](https://www.linkedin.com/in/mujeeb-anwar/)  ·  [✉️ Email](mailto:mujeebanwar2879@gmail.com)
+- 🤖 AI Chatbots & Automation Systems
+- 📊 RAG Pipelines & Document Intelligence
+- 🌐 Full-Stack SaaS Development (Laravel + React)
+- ⚙️ API Development & Integrations
+- ☁️ Cloud Deployment (AWS, Vercel, Docker)
+- 📈 Performance Optimization & Scaling
 
+---
+
+### 🚀 Let's Build Something Powerful
+
+💡 Have an idea? Need an AI-powered solution?
+
+👉 I can help you build, automate, and scale it.
+
+📬 Reach out:
+- 💼 LinkedIn: https://www.linkedin.com/in/mujeeb-anwar
+- ✉️ Email: mujeebanwar2879@gmail.com
 ---
 
 <!-- 🌟 Footer wave animation -->
