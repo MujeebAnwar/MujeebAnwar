@@ -52,7 +52,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/MujeebAnwar/MujeebAnwar/blob/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MujeebAnwar/MujeebAnwar/output/github-snake-dark.svg" />
 </p>
 
 ---
