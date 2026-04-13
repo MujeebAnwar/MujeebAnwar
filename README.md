@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Mujeeb Anwar
 
-🚀 Full-Stack Dev  ·  🤖 AI Integration Specialist  ·  ☁️ Cloud & Automation  ·  📍 Pakistan
+<!-- ✨ Animated typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+Integration+Specialist;Laravel+%7C+React+%7C+Python+%7C+AWS;I+turn+ideas+into+AI-powered+products+fast" />
+</p>
+
+🚀 Full-Stack Dev  ·  🤖 AI Integration Specialist  ·  ☁️ Cloud & Automation  ·  📍 Pakistan
 
 > 💡 *I turn complex ideas into clean, AI-powered web products fast.*
 
@@ -20,6 +25,35 @@
 | 🚀 5+ years shipping | 🤖 10+ AI workflows built | ☁️ AWS cloud apps |
 |:---:|:---:|:---:|
 | ⚡ 14 public repos | 🌍 3+ countries served | ♾️ ∞ coffees consumed |
+
+---
+
+### 📈 GitHub Live Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MujeebAnwar&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujeebAnwar&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujeebAnwar&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MujeebAnwar&theme=tokyo-night" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/MujeebAnwar/MujeebAnwar/blob/output/github-snake-dark.svg" />
+</p>
 
 ---
 
@@ -49,6 +83,22 @@
 
 ---
 
+### 🔥 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MujeebAnwar&theme=algolia&row=2&column=4" />
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MujeebAnwar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ### 🔨 What I work on
 
 - 🌐 Full-stack web apps with Laravel + React / Node backends
@@ -59,4 +109,13 @@
 
 ---
 
-📬 Open to freelance projects  ·  [💼 LinkedIn](https://www.linkedin.com/in/mujeeb-anwar/)  ·  [✉️ Email](mailto:mujeebanwar2879@gmail.com)
+### 📬 Connect with me
+
+📬 Open to freelance projects  ·  [💼 LinkedIn](https://www.linkedin.com/in/mujeeb-anwar/)  ·  [✉️ Email](mailto:mujeebanwar2879@gmail.com)
+
+---
+
+<!-- 🌟 Footer wave animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
